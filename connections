@@ -1,0 +1,22 @@
+make connections as told in the code.
+Connect:
+  column a1-13
+  " a2-12
+  " a3-11
+  " a4-10
+  " b1-9
+  " b2-8
+  " b3-7
+  " b4-6
+  " c1-5
+  " c2-4
+  " c3-3
+  " c4-2
+  " d1-1
+  " d2-0
+  " d3-A5
+  " d4-A4
+  layer 4-A3
+  layer 3-A2
+  layer 2-A1
+  layer 1-A0
