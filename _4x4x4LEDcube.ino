@@ -1,6 +1,4 @@
 /*
-  If you have any questions please comment on the video and I'll try to get back
-  to you ASAP
   4x4x4 LED cube
   Connect:
   column a1-13
